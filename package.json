@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:supernetorg/bitcore-build-komodo"
+    "url": "git://github.com/OleksandrBlack/bitcore-build-safecoin.git"
   },
   "keywords": [
     "bitcore"
@@ -33,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/supernetorg/bitcore-build-komodo/issues"
+    "url": "https://github.com/OleksandrBlack/bitcore-build-safecoin/issues"
   },
-  "homepage": "https://github.com/str4d/bitcore-build-komodo",
+  "homepage": "https://github.com/OleksandrBlack/bitcore-build-safecoin",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
